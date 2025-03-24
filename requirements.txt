@@ -1,0 +1,10 @@
+# Python dependencies (Note: This project primarily uses Node.js)
+# These are only needed if you want to run Python scripts or utilities
+
+# Core dependencies
+python-dotenv>=0.19.0
+
+# Development dependencies
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
